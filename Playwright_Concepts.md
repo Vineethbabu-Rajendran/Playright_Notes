@@ -1,9 +1,5 @@
 # Playwright Concepts
 
-Consolidated Playwright notes extracted from the uploaded Markdown files. MCP-specific material is organized separately in `MCP_Concepts.md`.
-
-## Source: Locators, Dropdowns and Assertions
-
 # Playwright Locators, Dropdowns and Assertions -- Notes
 
 ## 1. Overview
